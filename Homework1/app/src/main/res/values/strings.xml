@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Homework1</string>
+    <string name="Value1TextView">Value 1:</string>
+    <string name="Value2TextView">Value 2:</string>
+    <string name="OperatorTextView">Operator</string>
+    <string name="CalculateButton">Calculate</string>
+    <string name="Value1EditText" />
+    <string name="Value2EditText" />
+    <string name="AnswerTextView" />
+
+    <string-array name = "OperatorSpinner">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
